@@ -1,0 +1,115 @@
+*
+{
+    padding:0;
+    margin:0;
+}
+.logo
+{
+    font-size: 25px;
+    position: relative;
+    left: 5%;
+    color:white;
+    font-weight: bold;
+    line-height: 70px;
+}
+ul
+{
+    position: relative;
+    float:right;
+    margin-right: 20px;
+}
+ul li
+{
+    display:inline-block;
+    line-height:70px;
+    margin: 0 5px;
+}
+ul li a
+{
+    text-decoration: none;
+    color:white;
+    font-size: 17px;
+}
+nav
+{
+    position: fixed;
+    background-color: skyblue;
+    height: 70px;
+    width: 100%;
+    z-index: 1;
+}
+.main_img
+{
+ width: 100%;
+ height: 300px;
+}
+.section1
+{
+    padding-top:70px;
+}
+.img_text
+{
+    position:absolute;
+    top: 20%;
+    left: 30%;
+    color:white;
+    background-color:midnightblue;
+    padding-right:22px;
+    padding-left:22px;
+    font-size:40px;
+}
+.logo_img
+{
+    width: 100%;
+    height: 200px;
+
+}
+.container
+{
+    padding-top: 70px;
+}
+.teacher
+{
+    width:90%;
+    height:200px;
+}
+.label_name
+{
+    display:inline-block;
+    width:150px;
+    text-align:right;
+    padding: 10px;
+    margin-right: 10px;
+}
+.input_deg
+{
+  width:200px;
+  height:30px;
+  border-radius: 25px;
+  border: 1px solid blue;
+  margin-bottom: 10px;
+}
+#submit
+{
+    position:relative;
+    width:100px;
+}
+footer
+{
+ width:100%
+ height:50px;
+}
+.form_deg
+{
+    height:70px;
+    padding:70px;
+}
+.login_name
+{
+    display:inline-block;
+    color:red;
+    width:100px;
+    padding-top:10px;
+    padding-bottom:10px;
+    text-align:right;
+}
